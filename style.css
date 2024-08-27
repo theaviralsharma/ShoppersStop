@@ -1226,3 +1226,8 @@ footer .copyright{
     #subtotal button{
         margin-top: 10%;
     }
+
+    #page-header.cart-header{
+        background-image: url('/assets/banner/cart.jpeg');
+        object-fit: cover;
+    }
